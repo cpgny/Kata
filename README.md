@@ -1,2 +1,2 @@
 # Kata
-# Codewars solutions mostly below ~4ky.
+  Codewars solutions mostly below ~4ky.
