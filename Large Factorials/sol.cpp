@@ -1,7 +1,4 @@
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <sstream>
+#include bits/stdc++.h
 
 #define FOR(i, j) for(unsigned i = 0; i < (j); ++i)
 #define FORN(_,n,j) for(int _ = (n); _ <= (j); ++_)
