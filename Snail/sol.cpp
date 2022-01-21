@@ -1,3 +1,4 @@
+コード戦争4Kyuグラフ
 #include <bits/stdc++.h>
 using namespace  std;
 vector<int> snail(const vector<vector<int>> &snail_map){
