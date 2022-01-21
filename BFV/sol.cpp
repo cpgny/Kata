@@ -1,5 +1,5 @@
+コード戦争3Kyuグラフ
 #include <bits/stdc++.h>
-
 using namespace std;
 
 bool validate_battlefield(vector<vector<int>> field) {
