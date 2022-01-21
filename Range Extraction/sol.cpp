@@ -1,3 +1,4 @@
+コード戦争4Kyuグラフ
 #include <bits/stdc++.h>
 using namespace std;
 string range_extraction(vector<int> args) {
