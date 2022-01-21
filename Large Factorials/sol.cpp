@@ -1,3 +1,4 @@
+コード戦争4Kyuグラフ
 #include bits/stdc++.h
 
 #define FOR(i, j) for(unsigned i = 0; i < (j); ++i)
