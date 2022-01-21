@@ -1,4 +1,4 @@
-コード戦争 4Kyu グラフ
+コード戦争4Kyuグラフ
 #include <bits/stdc++.h>
 using namespace std;
 const int dx[8] = {1, 0, -1, 0, 1, 1, -1, -1}, dy[8] = {0, 1, 0, -1, -1, 1, -1, 1};
