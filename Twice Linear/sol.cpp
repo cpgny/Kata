@@ -1,3 +1,4 @@
+コード戦争4Kyuグラフ
 #include <algorithm>
 #define rep(i, j) for(int i = 1; i <= j; ++i)
 
