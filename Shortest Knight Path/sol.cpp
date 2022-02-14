@@ -10,7 +10,7 @@ int dp[10][10];
 char c_val[5], x_val[5];
 
 bool query(int x, int y, int n) {
-    return x >= 0 && x < n && y >= 0 && y < n;
+    return x >= 0 && x < n && y >= 0 && y < n && dp[x][y] == 0;
 }
 
 int bfs() {
@@ -37,7 +37,7 @@ int bfs() {
            if(pq.xy == jx && pq.jy == xj) {
               return pq.py;
            }
-           while(query(pq.xy, pq.jy, 8) && dp[pq.xy][pq.jy] == 0) {
+           while(query(pq.xy, pq.jy, 8)) {
               dp[pq.xy][pq.jy] = 1;
               q.push(pq);
            }
