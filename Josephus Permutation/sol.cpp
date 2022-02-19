@@ -1,4 +1,4 @@
-コード戦争4Kyuグラフ
+コード戦争5Kyuグラフ
 #include <bits/stdc++.h>
 
 using namespace std;
